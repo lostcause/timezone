@@ -89,7 +89,7 @@ class Timezone {
 	    '(UTC+04:00) Abu Dhabi' => 'Asia/Muscat',
 	    '(UTC+04:00) Baku' => 'Asia/Baku',
 	    '(UTC+04:00) Moscow' => 'Europe/Moscow',
-	    '(UTC+04:00) St. Petersburg' => 'Europe/Moscow',
+	    '(UTC+04:00) St. Petersburg' => 'Europe/Moscow (St. Petersburg)',
 	    '(UTC+04:00) Tbilisi' => 'Asia/Tbilisi',
 	    '(UTC+04:00) Yerevan' => 'Asia/Yerevan',
 	    '(UTC+04:30) Kabul' => 'Asia/Kabul',
